@@ -1,0 +1,6 @@
+main.c:344:10:Serial_Scanf	8	static
+main.c:185:6:Proximity_Test	552	static
+main.c:81:5:main	96	static
+main.c:363:1:__io_putchar	24	static
+main.c:379:1:__io_getchar	24	static
+main.c:396:6:Error_Handler	8	static
